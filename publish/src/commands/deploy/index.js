@@ -75,7 +75,6 @@ const deploy = async ({
 	network = DEFAULTS.network,
 	privateKey,
 	signer,
-	providerUrl,
 	provider,
 	skipFeedChecks = false,
 	specifyContracts,
@@ -166,7 +165,7 @@ const deploy = async ({
 	console.log(gray('Loading the compiled contracts locally...'));
 	const { earliestCompiledTimestamp, compiled } = loadCompiledFiles({ buildPath });
 
-	const { privateKey: envPrivateKey, explorerLinkPrefix } = loadConnections({
+	const { privateKey: envPrivateKey, explorerLinkPrefix, providerUrl } = loadConnections({
 		network,
 		useFork,
 		useOvm,
@@ -178,8 +177,8 @@ const deploy = async ({
 	// as the OVM node does not support eth_sendTransaction, which inherently relies on
 	// the unlocked accounts on the node.
 	if (network === 'local' && useOvm && !privateKey) {
-		// Account #0: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
-		privateKey = '0xac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80';
+		// Account #0: 0x9790C67E6062ce2965517E636377B954FA2d1afA
+		privateKey = '0x4a4d2d09df5c7cbb654b0f7c22afb87734c48ff369f0db91cec1923cbaaea7f7';
 	}
 
 	// when not in a local network, and not forking, and the privateKey isn't supplied,

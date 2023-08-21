@@ -129,6 +129,8 @@ contract Migration_DschubbaOptimismStep1 is BaseMigration {
         exchangerates_i.addAggregator("SHIB", 0xd1e56e7657C0E0d20c0e11C2B6ae0D90932d5665);
         // Ensure the ExchangeRates contract has the standalone feed for CRV;
         exchangerates_i.addAggregator("CRV", 0xbD92C6c284271c227a1e0bF1786F468b539f51D9);
+
+        exchangerates_i.addAggregator("sETH", 0x3baD20311cD5073200085C25655923e4DE4e390A);
         // Ensure the PerpsV2ExchangeRate contract has the off-chain feed Id for APT;
         perpsv2exchangerate_i.setOffchainPriceFeedId(
             "APT",

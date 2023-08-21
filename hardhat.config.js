@@ -77,14 +77,18 @@ module.exports = {
 			accounts: process.env.PRIVATE_KEY ? [process.env.PRIVATE_KEY] : [],
 		},
 		goerli: {
-			url: process.env.PROVIDER_URL?.replace('network', 'goerli') || 'http://localhost:8545',
+			url: process.env.OVM_GOERLI_PROVIDER_URL || 'http://localhost:8545',
 			chainId: 5,
-			accounts: process.env.PRIVATE_KEY ? [process.env.PRIVATE_KEY] : [],
+			accounts: process.env.TESTNET_DEPLOY_PRIVATE_KEY
+				? [process.env.TESTNET_DEPLOY_PRIVATE_KEY]
+				: [],
 		},
 		'goerli-ovm': {
-			url: process.env.OVM_GOERLI_PROVIDER_URL || 'https://goerli.optimism.io/',
-			chainId: 420,
-			accounts: process.env.PRIVATE_KEY ? [process.env.PRIVATE_KEY] : [],
+			url: process.env.OVM_GOERLI_PROVIDER_URL || 'http://localhost:8545',
+			chainId: 5,
+			accounts: process.env.TESTNET_DEPLOY_PRIVATE_KEY
+				? [process.env.TESTNET_DEPLOY_PRIVATE_KEY]
+				: [],
 		},
 		rinkeby: {
 			url: process.env.PROVIDER_URL?.replace('network', 'rinkeby') || '',
@@ -92,11 +96,18 @@ module.exports = {
 			accounts: process.env.PRIVATE_KEY ? [process.env.PRIVATE_KEY] : [],
 		},
 		local: {
-			chainId: 31337,
-			url: 'http://localhost:8545/',
+			url: process.env.OVM_GOERLI_PROVIDER_URL || 'http://localhost:8545',
+			chainId: 1337,
+			accounts: process.env.TESTNET_DEPLOY_PRIVATE_KEY
+				? [process.env.TESTNET_DEPLOY_PRIVATE_KEY]
+				: [],
 		},
 		'local-ovm': {
-			url: 'http://localhost:9545/',
+			url: process.env.OVM_GOERLI_PROVIDER_URL || 'http://localhost:8545',
+			chainId: 1337,
+			accounts: process.env.TESTNET_DEPLOY_PRIVATE_KEY
+				? [process.env.TESTNET_DEPLOY_PRIVATE_KEY]
+				: [],
 		},
 	},
 	gasReporter: {

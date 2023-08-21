@@ -172,7 +172,7 @@ const loadConnections = ({ network, useFork, useOvm }) => {
 	// This is because the fork command is assumed to be running at 'localhost:8545'.
 	let providerUrl;
 	if (network === 'local' || useFork) {
-		providerUrl = 'http://127.0.0.1:8545';
+		providerUrl = process.env.OVM_GOERLI_PROVIDER_URL;
 	} else {
 		if (useOvm) {
 			if (network === 'mainnet' && process.env.OVM_PROVIDER_URL) {

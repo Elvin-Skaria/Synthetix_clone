@@ -231,7 +231,7 @@ module.exports = async ({
 		}
 	}
 
-	const addressesChunkSize = 20;
+	const addressesChunkSize = 5;
 	let batchCounter = 1;
 	for (let i = 0; i < contractsToRebuildCache.length; i += addressesChunkSize) {
 		const chunk = contractsToRebuildCache.slice(i, i + addressesChunkSize);

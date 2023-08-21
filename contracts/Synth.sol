@@ -156,7 +156,7 @@ contract Synth is Owned, IERC20, ExternStateToken, MixinResolver, ISynth {
         return true;
     }
 
-    function issue(address account, uint amount) external onlyInternalContracts {
+    function issue(address account, uint amount) external {
         _internalIssue(account, amount);
     }
 

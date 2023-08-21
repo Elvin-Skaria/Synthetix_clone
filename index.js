@@ -733,13 +733,13 @@ const getUsers = ({ network = 'mainnet', user, useOvm = false } = {}) => {
 		}),
 		local: Object.assign({}, base, {
 			// Deterministic account #0 when using `npx hardhat node`
-			owner: '0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',
+			owner: '0x9790C67E6062ce2965517E636377B954FA2d1afA',
 		}),
 		'local-ovm': Object.assign({}, base, {
 			// Deterministic account #0 when using `npx hardhat node`
-			owner: '0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',
-			deployer: '0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',
-			oracle: '0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',
+			owner: '0x9790C67E6062ce2965517E636377B954FA2d1afA',
+			deployer: '0x9790C67E6062ce2965517E636377B954FA2d1afA',
+			oracle: '0x9790C67E6062ce2965517E636377B954FA2d1afA',
 		}),
 	};
 

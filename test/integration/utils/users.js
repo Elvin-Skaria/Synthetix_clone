@@ -29,11 +29,11 @@ async function loadUsers({ ctx }) {
 		// Deploying without a private key will give the error "OVM: Unsupported RPC method",
 		// as the OVM node does not support eth_sendTransaction, which inherently relies on
 		// the unlocked accounts on the node.
-		// Account #0: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
-		const privateKey = '0xac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80';
+		// Account #0: 0x9790C67E6062ce2965517E636377B954FA2d1afA
+		const privateKey = '0x4a4d2d09df5c7cbb654b0f7c22afb87734c48ff369f0db91cec1923cbaaea7f7';
 
 		ctx.users.owner = new ethers.Wallet(privateKey, ctx.provider);
-		ctx.users.owner.address = '0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266';
+		ctx.users.owner.address = '0x9790C67E6062ce2965517E636377B954FA2d1afA';
 		ctx.users.deployer = ctx.users.owner;
 	}
 

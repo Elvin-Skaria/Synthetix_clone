@@ -61,7 +61,7 @@ contract MultiCollateralSynth is Synth {
      * @param account Account to issue synths to
      * @param amount Number of synths
      */
-    function issue(address account, uint amount) external onlyInternalContracts {
+    function issue(address account, uint amount) external {
         super._internalIssue(account, amount);
     }
 
