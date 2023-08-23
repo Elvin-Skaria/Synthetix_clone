@@ -178,7 +178,7 @@ const deploy = async ({
 	// the unlocked accounts on the node.
 	if (network === 'local' && useOvm && !privateKey) {
 		// Account #0: 0x9790C67E6062ce2965517E636377B954FA2d1afA
-		privateKey = '0x055f32aa3d74035a31ad593aa89f2bda3a7f653a3c8bebd60173f8c3c25bc3b7';
+		privateKey = '0xcb44b4fc40732651784d18ef9bc40a9b9376cde305093217b8130f9c0a0cb9be';
 	}
 
 	// when not in a local network, and not forking, and the privateKey isn't supplied,
