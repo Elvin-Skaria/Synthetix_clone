@@ -111,7 +111,7 @@ contract PerpsV2MarketDelayedExecution is IPerpsV2MarketDelayedExecution, PerpsV
         require(order.isOffchain, "use onchain method");
 
         // update price feed (this is payable)
-        _perpsV2ExchangeRate().updatePythPrice.value(msg.value)(messageSender, priceUpdateData);
+        // _perpsV2ExchangeRate().updatePythPrice.value(msg.value)(messageSender, priceUpdateData);
 
         // get latest price for asset
         uint maxAge = _offchainDelayedOrderMaxAge(_marketKey());
