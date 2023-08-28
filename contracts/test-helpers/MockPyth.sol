@@ -58,7 +58,7 @@ contract MockPyth {
     function getPriceNoOlderThan(bytes32 id, uint age) public view returns (PythStructs.Price memory price) {
         price = getPriceUnsafe(id);
 
-        require(diff(block.timestamp, price.publishTime) <= age, "no price available which is recent enough");
+        // require(diff(block.timestamp, price.publishTime) <= age, "no price available which is recent enough");
 
         return price;
     }

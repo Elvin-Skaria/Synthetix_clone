@@ -2,810 +2,810 @@
 	"targets": {
 		"SafeDecimalMath": {
 			"name": "SafeDecimalMath",
-			"address": "0xD0ED986a864d3caFDCE5E7779322b4dF4C34eabE",
+			"address": "0xCa270ecbc6307816bbfb9E524B30d35e56c5FD69",
 			"source": "SafeDecimalMath",
-			"link": "https://local-explorer.optimism.io/address/0xD0ED986a864d3caFDCE5E7779322b4dF4C34eabE",
-			"timestamp": "2023-08-28T13:42:27.555Z",
+			"link": "https://local-explorer.optimism.io/address/0xCa270ecbc6307816bbfb9E524B30d35e56c5FD69",
+			"timestamp": "2023-08-28T16:17:25.121Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": []
 		},
 		"Math": {
 			"name": "Math",
-			"address": "0x3456a27e2Ff362795a7Eb44416008Dd313669d04",
+			"address": "0xA1B5CF01739210F1046e65fFFFB2082253c2c11d",
 			"source": "Math",
-			"link": "https://local-explorer.optimism.io/address/0x3456a27e2Ff362795a7Eb44416008Dd313669d04",
-			"timestamp": "2023-08-28T13:42:27.693Z",
+			"link": "https://local-explorer.optimism.io/address/0xA1B5CF01739210F1046e65fFFFB2082253c2c11d",
+			"timestamp": "2023-08-28T16:17:25.251Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": []
 		},
 		"SystemSettingsLib": {
 			"name": "SystemSettingsLib",
-			"address": "0x0Ff5693c2AC13F1d4300bBe37E05Df1F6a0D9d10",
+			"address": "0x36Cc016E96841cD3296c13654B621358bCe981a2",
 			"source": "SystemSettingsLib",
-			"link": "https://local-explorer.optimism.io/address/0x0Ff5693c2AC13F1d4300bBe37E05Df1F6a0D9d10",
-			"timestamp": "2023-08-28T13:42:27.915Z",
+			"link": "https://local-explorer.optimism.io/address/0x36Cc016E96841cD3296c13654B621358bCe981a2",
+			"timestamp": "2023-08-28T16:17:25.485Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": []
 		},
 		"ExchangeSettlementLib": {
 			"name": "ExchangeSettlementLib",
-			"address": "0x2F8EE3568C02513D5b822f1C80dcE4814727C180",
+			"address": "0xcf0B549938eC32949cb89248AdEEFA05D4Ba5b9A",
 			"source": "ExchangeSettlementLib",
-			"link": "https://local-explorer.optimism.io/address/0x2F8EE3568C02513D5b822f1C80dcE4814727C180",
-			"timestamp": "2023-08-28T13:42:28.087Z",
+			"link": "https://local-explorer.optimism.io/address/0xcf0B549938eC32949cb89248AdEEFA05D4Ba5b9A",
+			"timestamp": "2023-08-28T16:17:25.674Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": []
 		},
 		"AddressResolver": {
 			"name": "AddressResolver",
-			"address": "0x26353029322Bff002B9c81796CD654d862Ac15e4",
+			"address": "0xcDa0ac574d6D69d2C5e983E96202B811c0e06312",
 			"source": "AddressResolver",
-			"link": "https://local-explorer.optimism.io/address/0x26353029322Bff002B9c81796CD654d862Ac15e4",
-			"timestamp": "2023-08-28T13:42:28.249Z",
+			"link": "https://local-explorer.optimism.io/address/0xcDa0ac574d6D69d2C5e983E96202B811c0e06312",
+			"timestamp": "2023-08-28T16:17:25.798Z",
 			"txn": "",
 			"network": "local",
-			"constructorArgs": ["0x01291f14349A951127A3A90137217AB9EeD159B8"]
+			"constructorArgs": ["0xFEA12F809A41fd029EE5d1914c243A4DCf568997"]
 		},
 		"ReadProxyAddressResolver": {
 			"name": "ReadProxyAddressResolver",
-			"address": "0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA",
+			"address": "0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87",
 			"source": "ReadProxy",
-			"link": "https://local-explorer.optimism.io/address/0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA",
-			"timestamp": "2023-08-28T13:42:28.339Z",
+			"link": "https://local-explorer.optimism.io/address/0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87",
+			"timestamp": "2023-08-28T16:17:25.878Z",
 			"txn": "",
 			"network": "local",
-			"constructorArgs": ["0x01291f14349A951127A3A90137217AB9EeD159B8"]
+			"constructorArgs": ["0xFEA12F809A41fd029EE5d1914c243A4DCf568997"]
 		},
 		"OneNetAggregatorIssuedSynths": {
 			"name": "OneNetAggregatorIssuedSynths",
-			"address": "0x10F0258dBD37430FC6BF99ae301D1eaE900fce30",
+			"address": "0x3dC5D12790C8Fc3b1879eD8F38366DA0479311B6",
 			"source": "OneNetAggregatorIssuedSynths",
-			"link": "https://local-explorer.optimism.io/address/0x10F0258dBD37430FC6BF99ae301D1eaE900fce30",
-			"timestamp": "2023-08-28T13:42:28.422Z",
+			"link": "https://local-explorer.optimism.io/address/0x3dC5D12790C8Fc3b1879eD8F38366DA0479311B6",
+			"timestamp": "2023-08-28T16:17:25.979Z",
 			"txn": "",
 			"network": "local",
-			"constructorArgs": ["0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"]
+			"constructorArgs": ["0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"]
 		},
 		"OneNetAggregatorDebtRatio": {
 			"name": "OneNetAggregatorDebtRatio",
-			"address": "0xF5F6B74cB0Af6a0C1Ac46c71753BaC4d7f0c1BFc",
+			"address": "0x8b435a4E240AA71B01E6DB8621d86e7908d03e2B",
 			"source": "OneNetAggregatorDebtRatio",
-			"link": "https://local-explorer.optimism.io/address/0xF5F6B74cB0Af6a0C1Ac46c71753BaC4d7f0c1BFc",
-			"timestamp": "2023-08-28T13:42:28.533Z",
+			"link": "https://local-explorer.optimism.io/address/0x8b435a4E240AA71B01E6DB8621d86e7908d03e2B",
+			"timestamp": "2023-08-28T16:17:26.087Z",
 			"txn": "",
 			"network": "local",
-			"constructorArgs": ["0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"]
+			"constructorArgs": ["0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"]
 		},
 		"FlexibleStorage": {
 			"name": "FlexibleStorage",
-			"address": "0xA6F7D784b03CeD007eA20FEd4eDedEdB65c73913",
+			"address": "0x551c4727A8c3b89eCDF8B9Fe4D0232be7Ba7D03B",
 			"source": "FlexibleStorage",
-			"link": "https://local-explorer.optimism.io/address/0xA6F7D784b03CeD007eA20FEd4eDedEdB65c73913",
-			"timestamp": "2023-08-28T13:42:28.738Z",
+			"link": "https://local-explorer.optimism.io/address/0x551c4727A8c3b89eCDF8B9Fe4D0232be7Ba7D03B",
+			"timestamp": "2023-08-28T16:17:26.315Z",
 			"txn": "",
 			"network": "local",
-			"constructorArgs": ["0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"]
+			"constructorArgs": ["0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"]
 		},
 		"SystemSettings": {
 			"name": "SystemSettings",
-			"address": "0xdee15DdE7661873011B51f877D4103D9CA551509",
+			"address": "0xc804fa9243a50f873394C8f0abC8474A3D80A047",
 			"source": "SystemSettings",
-			"link": "https://local-explorer.optimism.io/address/0xdee15DdE7661873011B51f877D4103D9CA551509",
-			"timestamp": "2023-08-28T13:42:29.078Z",
+			"link": "https://local-explorer.optimism.io/address/0xc804fa9243a50f873394C8f0abC8474A3D80A047",
+			"timestamp": "2023-08-28T16:17:26.718Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"SystemStatus": {
 			"name": "SystemStatus",
-			"address": "0x53a2A1492c376b5c6C09F5E63AADcec4e4f75864",
+			"address": "0x01628233d7798AA87aCD4758995246f4696d3971",
 			"source": "SystemStatus",
-			"link": "https://local-explorer.optimism.io/address/0x53a2A1492c376b5c6C09F5E63AADcec4e4f75864",
-			"timestamp": "2023-08-28T13:42:29.258Z",
+			"link": "https://local-explorer.optimism.io/address/0x01628233d7798AA87aCD4758995246f4696d3971",
+			"timestamp": "2023-08-28T16:17:26.927Z",
 			"txn": "",
 			"network": "local",
-			"constructorArgs": ["0x01291f14349A951127A3A90137217AB9EeD159B8"]
+			"constructorArgs": ["0xFEA12F809A41fd029EE5d1914c243A4DCf568997"]
 		},
 		"ExchangeRates": {
 			"name": "ExchangeRates",
-			"address": "0x5a4D9E1bF1DdE1f57474c1af5774F2D4f8625604",
+			"address": "0x22a0e58a8840a514bAA393cD0f252DAa36E22475",
 			"source": "ExchangeRates",
-			"link": "https://local-explorer.optimism.io/address/0x5a4D9E1bF1DdE1f57474c1af5774F2D4f8625604",
-			"timestamp": "2023-08-28T13:42:29.502Z",
+			"link": "https://local-explorer.optimism.io/address/0x22a0e58a8840a514bAA393cD0f252DAa36E22475",
+			"timestamp": "2023-08-28T16:17:27.216Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"TokenStateSynthetix": {
 			"name": "TokenStateSynthetix",
-			"address": "0xb161d80113ebA2EFF1E87A81E6D1977e38FF5723",
+			"address": "0xfC834A0cB3eA7A884eEd10005ec304D3D14E72Bd",
 			"source": "LegacyTokenState",
-			"link": "https://local-explorer.optimism.io/address/0xb161d80113ebA2EFF1E87A81E6D1977e38FF5723",
-			"timestamp": "2023-08-28T13:42:29.587Z",
+			"link": "https://local-explorer.optimism.io/address/0xfC834A0cB3eA7A884eEd10005ec304D3D14E72Bd",
+			"timestamp": "2023-08-28T16:17:27.296Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0x01291f14349A951127A3A90137217AB9EeD159B8"
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997"
 			]
 		},
 		"ProxySynthetix": {
 			"name": "ProxySynthetix",
-			"address": "0xcDdd9d13A0B6D89aCb2b543279f46B09afBaE0E0",
+			"address": "0x2201F9D990dD76c4B69Dd2138e8AD989726C1Fa4",
 			"source": "ProxyERC20",
-			"link": "https://local-explorer.optimism.io/address/0xcDdd9d13A0B6D89aCb2b543279f46B09afBaE0E0",
-			"timestamp": "2023-08-28T13:42:29.708Z",
+			"link": "https://local-explorer.optimism.io/address/0x2201F9D990dD76c4B69Dd2138e8AD989726C1Fa4",
+			"timestamp": "2023-08-28T16:17:27.416Z",
 			"txn": "",
 			"network": "local",
-			"constructorArgs": ["0x01291f14349A951127A3A90137217AB9EeD159B8"]
+			"constructorArgs": ["0xFEA12F809A41fd029EE5d1914c243A4DCf568997"]
 		},
 		"Synthetix": {
 			"name": "Synthetix",
-			"address": "0xC88C4bdd28b248Bd3Cf101a098723AD76A9f72C9",
+			"address": "0x13eC0441089df3aa0DB6184D9033ABE7D55F3AB4",
 			"source": "MintableSynthetix",
-			"link": "https://local-explorer.optimism.io/address/0xC88C4bdd28b248Bd3Cf101a098723AD76A9f72C9",
-			"timestamp": "2023-08-28T13:42:30.070Z",
+			"link": "https://local-explorer.optimism.io/address/0x13eC0441089df3aa0DB6184D9033ABE7D55F3AB4",
+			"timestamp": "2023-08-28T16:17:27.724Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0xcDdd9d13A0B6D89aCb2b543279f46B09afBaE0E0",
-				"0xb161d80113ebA2EFF1E87A81E6D1977e38FF5723",
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
+				"0x2201F9D990dD76c4B69Dd2138e8AD989726C1Fa4",
+				"0xfC834A0cB3eA7A884eEd10005ec304D3D14E72Bd",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
 				"0",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"RewardEscrow": {
 			"name": "RewardEscrow",
-			"address": "0xA6dA3A52Be6436D3a71d6A5584c6B0A04b9A8748",
+			"address": "0xf31C35e96bc73ACBa6090f4A9F3B6b5a27ca8BCc",
 			"source": "RewardEscrow",
-			"link": "https://local-explorer.optimism.io/address/0xA6dA3A52Be6436D3a71d6A5584c6B0A04b9A8748",
-			"timestamp": "2023-08-28T13:42:30.174Z",
+			"link": "https://local-explorer.optimism.io/address/0xf31C35e96bc73ACBa6090f4A9F3B6b5a27ca8BCc",
+			"timestamp": "2023-08-28T16:17:27.842Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
 				"0x0000000000000000000000000000000000000000",
 				"0x0000000000000000000000000000000000000000"
 			]
 		},
 		"RewardEscrowV2Frozen": {
 			"name": "RewardEscrowV2Frozen",
-			"address": "0x3B01aE33c7AD85c4B5cCD80A33c9668b855A356C",
+			"address": "0x9aD324fdF2B9F2cBa6302bD40982DF2cDe084585",
 			"source": "ImportableRewardEscrowV2Frozen",
-			"link": "https://local-explorer.optimism.io/address/0x3B01aE33c7AD85c4B5cCD80A33c9668b855A356C",
-			"timestamp": "2023-08-28T13:42:30.400Z",
+			"link": "https://local-explorer.optimism.io/address/0x9aD324fdF2B9F2cBa6302bD40982DF2cDe084585",
+			"timestamp": "2023-08-28T16:17:28.096Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"RewardEscrowV2Storage": {
 			"name": "RewardEscrowV2Storage",
-			"address": "0xF30665078629F176F27B3ba11f12d93eBB7A8a6e",
+			"address": "0xb445DC3a394e1F31D2E5F843523980Df09E6B996",
 			"source": "RewardEscrowV2Storage",
-			"link": "https://local-explorer.optimism.io/address/0xF30665078629F176F27B3ba11f12d93eBB7A8a6e",
-			"timestamp": "2023-08-28T13:42:30.569Z",
+			"link": "https://local-explorer.optimism.io/address/0xb445DC3a394e1F31D2E5F843523980Df09E6B996",
+			"timestamp": "2023-08-28T16:17:28.288Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
 				"0x0000000000000000000000000000000000000000"
 			]
 		},
 		"RewardEscrowV2": {
 			"name": "RewardEscrowV2",
-			"address": "0x9B2d4F66b7a5bbEBA573267dA1fe592B947B7875",
+			"address": "0xF9b129A7c03E430a9f40F58e5961c40D87ba9232",
 			"source": "ImportableRewardEscrowV2",
-			"link": "https://local-explorer.optimism.io/address/0x9B2d4F66b7a5bbEBA573267dA1fe592B947B7875",
-			"timestamp": "2023-08-28T13:42:30.794Z",
+			"link": "https://local-explorer.optimism.io/address/0xF9b129A7c03E430a9f40F58e5961c40D87ba9232",
+			"timestamp": "2023-08-28T16:17:28.522Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"SynthetixEscrow": {
 			"name": "SynthetixEscrow",
-			"address": "0x9A00B1129Ab2d570c38A22624B6fAD7f480Bb859",
+			"address": "0x9503D9d513ECD402a904Eb8e26EeBBAB3aFe8992",
 			"source": "SynthetixEscrow",
-			"link": "https://local-explorer.optimism.io/address/0x9A00B1129Ab2d570c38A22624B6fAD7f480Bb859",
-			"timestamp": "2023-08-28T13:42:30.911Z",
+			"link": "https://local-explorer.optimism.io/address/0x9503D9d513ECD402a904Eb8e26EeBBAB3aFe8992",
+			"timestamp": "2023-08-28T16:17:28.664Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
 				"0x0000000000000000000000000000000000000000"
 			]
 		},
 		"SynthetixDebtShare": {
 			"name": "SynthetixDebtShare",
-			"address": "0x0f7798524477369c3515421419D39F5867c94892",
+			"address": "0xE0D70a9ea332C43E2af05068705eAb77aA4bBDF0",
 			"source": "SynthetixDebtShare",
-			"link": "https://local-explorer.optimism.io/address/0x0f7798524477369c3515421419D39F5867c94892",
-			"timestamp": "2023-08-28T13:42:31.088Z",
+			"link": "https://local-explorer.optimism.io/address/0xE0D70a9ea332C43E2af05068705eAb77aA4bBDF0",
+			"timestamp": "2023-08-28T16:17:28.874Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"ProxyFeePool": {
 			"name": "ProxyFeePool",
-			"address": "0x6857Aeb8E6DB383d5791F994c113F532EadF0d50",
+			"address": "0x069726DB441933b5e04A8029B1AF0A935E489449",
 			"source": "Proxy",
-			"link": "https://local-explorer.optimism.io/address/0x6857Aeb8E6DB383d5791F994c113F532EadF0d50",
-			"timestamp": "2023-08-28T13:42:31.164Z",
+			"link": "https://local-explorer.optimism.io/address/0x069726DB441933b5e04A8029B1AF0A935E489449",
+			"timestamp": "2023-08-28T16:17:28.981Z",
 			"txn": "",
 			"network": "local",
-			"constructorArgs": ["0x01291f14349A951127A3A90137217AB9EeD159B8"]
+			"constructorArgs": ["0xFEA12F809A41fd029EE5d1914c243A4DCf568997"]
 		},
 		"DelegateApprovalsEternalStorage": {
 			"name": "DelegateApprovalsEternalStorage",
-			"address": "0x5492fA7cA06AC2De621060cd83Bc67af02381B90",
+			"address": "0x6d7920A3C9fc74a1aCa848cf06DA917267d6e293",
 			"source": "EternalStorage",
-			"link": "https://local-explorer.optimism.io/address/0x5492fA7cA06AC2De621060cd83Bc67af02381B90",
-			"timestamp": "2023-08-28T13:42:31.292Z",
+			"link": "https://local-explorer.optimism.io/address/0x6d7920A3C9fc74a1aCa848cf06DA917267d6e293",
+			"timestamp": "2023-08-28T16:17:29.106Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
 				"0x0000000000000000000000000000000000000000"
 			]
 		},
 		"DelegateApprovals": {
 			"name": "DelegateApprovals",
-			"address": "0x0BE38906642E400C1aa8EAd542956921333fceAC",
+			"address": "0x8AF03c6Fa3754b347bf1950db8703DDF00ca104e",
 			"source": "DelegateApprovals",
-			"link": "https://local-explorer.optimism.io/address/0x0BE38906642E400C1aa8EAd542956921333fceAC",
-			"timestamp": "2023-08-28T13:42:31.429Z",
+			"link": "https://local-explorer.optimism.io/address/0x8AF03c6Fa3754b347bf1950db8703DDF00ca104e",
+			"timestamp": "2023-08-28T16:17:29.227Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0x5492fA7cA06AC2De621060cd83Bc67af02381B90"
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0x6d7920A3C9fc74a1aCa848cf06DA917267d6e293"
 			]
 		},
 		"Liquidator": {
 			"name": "Liquidator",
-			"address": "0x906870934842C3B6f8792Ed78aE4B0c4317D0c94",
+			"address": "0xe5a7A58A2A671de940C8BE6061fc70A93A24d4BC",
 			"source": "Liquidator",
-			"link": "https://local-explorer.optimism.io/address/0x906870934842C3B6f8792Ed78aE4B0c4317D0c94",
-			"timestamp": "2023-08-28T13:42:31.590Z",
+			"link": "https://local-explorer.optimism.io/address/0xe5a7A58A2A671de940C8BE6061fc70A93A24d4BC",
+			"timestamp": "2023-08-28T16:17:29.385Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"LiquidatorRewards": {
 			"name": "LiquidatorRewards",
-			"address": "0x5ec0Bb00834F650aD554C284AebCBc2f9cFf6556",
+			"address": "0xb046C53A26C0e943ccB32f304582303B31902a33",
 			"source": "LiquidatorRewards",
-			"link": "https://local-explorer.optimism.io/address/0x5ec0Bb00834F650aD554C284AebCBc2f9cFf6556",
-			"timestamp": "2023-08-28T13:42:31.698Z",
+			"link": "https://local-explorer.optimism.io/address/0xb046C53A26C0e943ccB32f304582303B31902a33",
+			"timestamp": "2023-08-28T16:17:29.579Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"FeePoolEternalStorage": {
 			"name": "FeePoolEternalStorage",
-			"address": "0x74f19616e29c3956496968E8E334162a182E8462",
+			"address": "0x70BcAA1cb5F7A6D65D7Bb1913B2C64D88641d480",
 			"source": "FeePoolEternalStorage",
-			"link": "https://local-explorer.optimism.io/address/0x74f19616e29c3956496968E8E334162a182E8462",
-			"timestamp": "2023-08-28T13:42:31.832Z",
+			"link": "https://local-explorer.optimism.io/address/0x70BcAA1cb5F7A6D65D7Bb1913B2C64D88641d480",
+			"timestamp": "2023-08-28T16:17:29.743Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
 				"0x0000000000000000000000000000000000000000"
 			]
 		},
 		"FeePool": {
 			"name": "FeePool",
-			"address": "0x44Dd3de960882268A9173ebe3A4C2c5c5a757DC0",
+			"address": "0x2e0C3210FFD05D85A3C471B76ce907709ae3Cc2c",
 			"source": "FeePool",
-			"link": "https://local-explorer.optimism.io/address/0x44Dd3de960882268A9173ebe3A4C2c5c5a757DC0",
-			"timestamp": "2023-08-28T13:42:32.107Z",
+			"link": "https://local-explorer.optimism.io/address/0x2e0C3210FFD05D85A3C471B76ce907709ae3Cc2c",
+			"timestamp": "2023-08-28T16:17:30.019Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x6857Aeb8E6DB383d5791F994c113F532EadF0d50",
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0x069726DB441933b5e04A8029B1AF0A935E489449",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"RewardsDistribution": {
 			"name": "RewardsDistribution",
-			"address": "0x7b4024648ffF5F02440816e9EF38752C70eE3F7C",
+			"address": "0x414D81d4BE2b314594062BD49484dB1720E1D130",
 			"source": "RewardsDistribution",
-			"link": "https://local-explorer.optimism.io/address/0x7b4024648ffF5F02440816e9EF38752C70eE3F7C",
-			"timestamp": "2023-08-28T13:42:32.223Z",
+			"link": "https://local-explorer.optimism.io/address/0x414D81d4BE2b314594062BD49484dB1720E1D130",
+			"timestamp": "2023-08-28T16:17:30.153Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
 				"0x0000000000000000000000000000000000000000",
 				"0x0000000000000000000000000000000000000000",
-				"0x9B2d4F66b7a5bbEBA573267dA1fe592B947B7875",
-				"0x6857Aeb8E6DB383d5791F994c113F532EadF0d50"
+				"0xF9b129A7c03E430a9f40F58e5961c40D87ba9232",
+				"0x069726DB441933b5e04A8029B1AF0A935E489449"
 			]
 		},
 		"DebtCache": {
 			"name": "DebtCache",
-			"address": "0xA042f39279a85E9c4FD1845B2161D77fc81464A4",
+			"address": "0x8130a4fA97e365E8D0c3dff5C0CCCF7D5f9d88bd",
 			"source": "DebtCache",
-			"link": "https://local-explorer.optimism.io/address/0xA042f39279a85E9c4FD1845B2161D77fc81464A4",
-			"timestamp": "2023-08-28T13:42:32.413Z",
+			"link": "https://local-explorer.optimism.io/address/0x8130a4fA97e365E8D0c3dff5C0CCCF7D5f9d88bd",
+			"timestamp": "2023-08-28T16:17:30.358Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"Exchanger": {
 			"name": "Exchanger",
-			"address": "0x18C21Fdfd57eCF1262E4E10610A8b9De445698e0",
+			"address": "0x3415b5dabA6dc738402D97dFea320A3FC5da2205",
 			"source": "Exchanger",
-			"link": "https://local-explorer.optimism.io/address/0x18C21Fdfd57eCF1262E4E10610A8b9De445698e0",
-			"timestamp": "2023-08-28T13:42:32.683Z",
+			"link": "https://local-explorer.optimism.io/address/0x3415b5dabA6dc738402D97dFea320A3FC5da2205",
+			"timestamp": "2023-08-28T16:17:30.635Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"CircuitBreaker": {
 			"name": "CircuitBreaker",
-			"address": "0x5a34f1CE99288A335A7B119eDA3AFB5F10B76e7a",
+			"address": "0xFD7e2557c1408Fea3a7aFB1897d7730ed489c519",
 			"source": "CircuitBreaker",
-			"link": "https://local-explorer.optimism.io/address/0x5a34f1CE99288A335A7B119eDA3AFB5F10B76e7a",
-			"timestamp": "2023-08-28T13:42:32.853Z",
+			"link": "https://local-explorer.optimism.io/address/0xFD7e2557c1408Fea3a7aFB1897d7730ed489c519",
+			"timestamp": "2023-08-28T16:17:30.800Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"ExchangeCircuitBreaker": {
 			"name": "ExchangeCircuitBreaker",
-			"address": "0x8a8F6cD6127Cf6f5476682c6Dc4627DbA7AA8781",
+			"address": "0x90B6Ac973Ebd52D752Da3b4aA8Bc1c128BDFEd70",
 			"source": "ExchangeCircuitBreaker",
-			"link": "https://local-explorer.optimism.io/address/0x8a8F6cD6127Cf6f5476682c6Dc4627DbA7AA8781",
-			"timestamp": "2023-08-28T13:42:32.977Z",
+			"link": "https://local-explorer.optimism.io/address/0x90B6Ac973Ebd52D752Da3b4aA8Bc1c128BDFEd70",
+			"timestamp": "2023-08-28T16:17:30.919Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"ExchangeState": {
 			"name": "ExchangeState",
-			"address": "0xA1ee05501976C8310e5573FCbBD035F52C9cDcB2",
+			"address": "0x152FADBf76A8f27AB7B927919b4373c1D307727E",
 			"source": "ExchangeState",
-			"link": "https://local-explorer.optimism.io/address/0xA1ee05501976C8310e5573FCbBD035F52C9cDcB2",
-			"timestamp": "2023-08-28T13:42:33.074Z",
+			"link": "https://local-explorer.optimism.io/address/0x152FADBf76A8f27AB7B927919b4373c1D307727E",
+			"timestamp": "2023-08-28T16:17:31.017Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0x18C21Fdfd57eCF1262E4E10610A8b9De445698e0"
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0x3415b5dabA6dc738402D97dFea320A3FC5da2205"
 			]
 		},
 		"Issuer": {
 			"name": "Issuer",
-			"address": "0x636C72aC42FC32196C0B4C13bAb782bFC8e82d7d",
+			"address": "0x1aCFA8269d811659b174946166bC7DC9967ED189",
 			"source": "Issuer",
-			"link": "https://local-explorer.optimism.io/address/0x636C72aC42FC32196C0B4C13bAb782bFC8e82d7d",
-			"timestamp": "2023-08-28T13:42:33.442Z",
+			"link": "https://local-explorer.optimism.io/address/0x1aCFA8269d811659b174946166bC7DC9967ED189",
+			"timestamp": "2023-08-28T16:17:31.306Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"TradingRewards": {
 			"name": "TradingRewards",
-			"address": "0x379CfC5d5368EE99Ed99C733297F7ec597Fa7D7b",
+			"address": "0x00Ea5165E7F0254067e51bdEf0623074E1150ff0",
 			"source": "TradingRewards",
-			"link": "https://local-explorer.optimism.io/address/0x379CfC5d5368EE99Ed99C733297F7ec597Fa7D7b",
-			"timestamp": "2023-08-28T13:42:33.646Z",
+			"link": "https://local-explorer.optimism.io/address/0x00Ea5165E7F0254067e51bdEf0623074E1150ff0",
+			"timestamp": "2023-08-28T16:17:31.531Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"EscrowChecker": {
 			"name": "EscrowChecker",
-			"address": "0x32C41C5690C7ad34cb39a5F54eE4Bc9103183CE9",
+			"address": "0x452981C24AbF5D5b09235CF3e2D0D515cDA049CB",
 			"source": "EscrowChecker",
-			"link": "https://local-explorer.optimism.io/address/0x32C41C5690C7ad34cb39a5F54eE4Bc9103183CE9",
-			"timestamp": "2023-08-28T13:42:33.724Z",
+			"link": "https://local-explorer.optimism.io/address/0x452981C24AbF5D5b09235CF3e2D0D515cDA049CB",
+			"timestamp": "2023-08-28T16:17:31.647Z",
 			"txn": "",
 			"network": "local",
-			"constructorArgs": ["0x9A00B1129Ab2d570c38A22624B6fAD7f480Bb859"]
+			"constructorArgs": ["0x9503D9d513ECD402a904Eb8e26EeBBAB3aFe8992"]
 		},
 		"SynthetixBridgeToBase": {
 			"name": "SynthetixBridgeToBase",
-			"address": "0x33649Ea4E5Dddb30ea1058cc321Fce860fadC09B",
+			"address": "0x4e7A4029173dB5ae0593E51b3B3d7Dd35b2B79c7",
 			"source": "SynthetixBridgeToBase",
-			"link": "https://local-explorer.optimism.io/address/0x33649Ea4E5Dddb30ea1058cc321Fce860fadC09B",
-			"timestamp": "2023-08-28T13:42:33.994Z",
+			"link": "https://local-explorer.optimism.io/address/0x4e7A4029173dB5ae0593E51b3B3d7Dd35b2B79c7",
+			"timestamp": "2023-08-28T16:17:31.852Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"OwnerRelayOnOptimism": {
 			"name": "OwnerRelayOnOptimism",
-			"address": "0x5514EA2A00Be3c624cd9FBb426610452a7dD30A8",
+			"address": "0x804DB79609de07F0817066870409DF0E4BD8126f",
 			"source": "OwnerRelayOnOptimism",
-			"link": "https://local-explorer.optimism.io/address/0x5514EA2A00Be3c624cd9FBb426610452a7dD30A8",
-			"timestamp": "2023-08-28T13:42:34.135Z",
+			"link": "https://local-explorer.optimism.io/address/0x804DB79609de07F0817066870409DF0E4BD8126f",
+			"timestamp": "2023-08-28T16:17:32.006Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA",
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
 				5184000
 			]
 		},
 		"DebtMigratorOnOptimism": {
 			"name": "DebtMigratorOnOptimism",
-			"address": "0x27D182e947b0899cDc53Df88d85809779f8d441f",
+			"address": "0x65Dc75d5DF5Bc68D29Afe790144dfd179a77424B",
 			"source": "DebtMigratorOnOptimism",
-			"link": "https://local-explorer.optimism.io/address/0x27D182e947b0899cDc53Df88d85809779f8d441f",
-			"timestamp": "2023-08-28T13:42:34.284Z",
+			"link": "https://local-explorer.optimism.io/address/0x65Dc75d5DF5Bc68D29Afe790144dfd179a77424B",
+			"timestamp": "2023-08-28T16:17:32.199Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"SynthRedeemer": {
 			"name": "SynthRedeemer",
-			"address": "0x8141a54e10fD2d5a79F537ce04486548f3cDdf4C",
+			"address": "0x2c6aCa43E97283F5b4eB0961f2Ba2eb2BEDC0482",
 			"source": "SynthRedeemer",
-			"link": "https://local-explorer.optimism.io/address/0x8141a54e10fD2d5a79F537ce04486548f3cDdf4C",
-			"timestamp": "2023-08-28T13:42:34.430Z",
+			"link": "https://local-explorer.optimism.io/address/0x2c6aCa43E97283F5b4eB0961f2Ba2eb2BEDC0482",
+			"timestamp": "2023-08-28T16:17:32.342Z",
 			"txn": "",
 			"network": "local",
-			"constructorArgs": ["0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"]
+			"constructorArgs": ["0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"]
 		},
 		"WrapperFactory": {
 			"name": "WrapperFactory",
-			"address": "0xe57366d4FDaE70B9CA625BF5781dB471d0E47d27",
+			"address": "0x878A0e79716a69D1ad79946532d9a5499b32134b",
 			"source": "WrapperFactory",
-			"link": "https://local-explorer.optimism.io/address/0xe57366d4FDaE70B9CA625BF5781dB471d0E47d27",
-			"timestamp": "2023-08-28T13:42:34.723Z",
+			"link": "https://local-explorer.optimism.io/address/0x878A0e79716a69D1ad79946532d9a5499b32134b",
+			"timestamp": "2023-08-28T16:17:32.597Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"DirectIntegrationManager": {
 			"name": "DirectIntegrationManager",
-			"address": "0x89e06D370BB20948ebd9421fC36BFca90811CfB7",
+			"address": "0x7981a8f03C5A8C9F41379E5F50a2dDA01D4AaD95",
 			"source": "DirectIntegrationManager",
-			"link": "https://local-explorer.optimism.io/address/0x89e06D370BB20948ebd9421fC36BFca90811CfB7",
-			"timestamp": "2023-08-28T13:42:34.864Z",
+			"link": "https://local-explorer.optimism.io/address/0x7981a8f03C5A8C9F41379E5F50a2dDA01D4AaD95",
+			"timestamp": "2023-08-28T16:17:32.761Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"TokenStatesUSD": {
 			"name": "TokenStatesUSD",
-			"address": "0x1873c9EC2763BA2eE0c723EA1c6c1562330A40C3",
+			"address": "0x667440e3D422588347e337338B21B16acf936bC4",
 			"source": "TokenState",
-			"link": "https://local-explorer.optimism.io/address/0x1873c9EC2763BA2eE0c723EA1c6c1562330A40C3",
-			"timestamp": "2023-08-28T13:42:34.966Z",
+			"link": "https://local-explorer.optimism.io/address/0x667440e3D422588347e337338B21B16acf936bC4",
+			"timestamp": "2023-08-28T16:17:32.857Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
 				"0x0000000000000000000000000000000000000000"
 			]
 		},
 		"ProxysUSD": {
 			"name": "ProxysUSD",
-			"address": "0x11251C9050D76AAc874b85E9d87eB4F6947A39b4",
+			"address": "0x28388Aa5cCFe5e006073Ed7efC9A7D5D91057281",
 			"source": "ProxyERC20",
-			"link": "https://local-explorer.optimism.io/address/0x11251C9050D76AAc874b85E9d87eB4F6947A39b4",
-			"timestamp": "2023-08-28T13:42:35.115Z",
+			"link": "https://local-explorer.optimism.io/address/0x28388Aa5cCFe5e006073Ed7efC9A7D5D91057281",
+			"timestamp": "2023-08-28T16:17:32.956Z",
 			"txn": "",
 			"network": "local",
-			"constructorArgs": ["0x01291f14349A951127A3A90137217AB9EeD159B8"]
+			"constructorArgs": ["0xFEA12F809A41fd029EE5d1914c243A4DCf568997"]
 		},
 		"SynthsUSD": {
 			"name": "SynthsUSD",
-			"address": "0x8cbe9918625B631C863c289060CAD3BAe2da16f5",
+			"address": "0x9Adc9DC7FE1a55c2912AcD447BcbbCD0A5268D57",
 			"source": "MultiCollateralSynth",
-			"link": "https://local-explorer.optimism.io/address/0x8cbe9918625B631C863c289060CAD3BAe2da16f5",
-			"timestamp": "2023-08-28T13:42:35.389Z",
+			"link": "https://local-explorer.optimism.io/address/0x9Adc9DC7FE1a55c2912AcD447BcbbCD0A5268D57",
+			"timestamp": "2023-08-28T16:17:33.206Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x11251C9050D76AAc874b85E9d87eB4F6947A39b4",
-				"0x1873c9EC2763BA2eE0c723EA1c6c1562330A40C3",
+				"0x28388Aa5cCFe5e006073Ed7efC9A7D5D91057281",
+				"0x667440e3D422588347e337338B21B16acf936bC4",
 				"Synth sUSD",
 				"sUSD",
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
 				"0x7355534400000000000000000000000000000000000000000000000000000000",
 				0,
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"TokenStatesETH": {
 			"name": "TokenStatesETH",
-			"address": "0x289117e1F2E7007Fb99C51a56eD3937D1616A5Cf",
+			"address": "0xC9D097E33c7223666301850B8b32deFFeee7a9d5",
 			"source": "TokenState",
-			"link": "https://local-explorer.optimism.io/address/0x289117e1F2E7007Fb99C51a56eD3937D1616A5Cf",
-			"timestamp": "2023-08-28T13:42:35.458Z",
+			"link": "https://local-explorer.optimism.io/address/0xC9D097E33c7223666301850B8b32deFFeee7a9d5",
+			"timestamp": "2023-08-28T16:17:33.353Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
 				"0x0000000000000000000000000000000000000000"
 			]
 		},
 		"ProxysETH": {
 			"name": "ProxysETH",
-			"address": "0x2aBDdB94c2fA5Bb246DE37ac54ac70Fc90fCcd9F",
+			"address": "0xB78F6606b0f758A2fB62a8154F09Fe6080F0c923",
 			"source": "ProxyERC20",
-			"link": "https://local-explorer.optimism.io/address/0x2aBDdB94c2fA5Bb246DE37ac54ac70Fc90fCcd9F",
-			"timestamp": "2023-08-28T13:42:35.587Z",
+			"link": "https://local-explorer.optimism.io/address/0xB78F6606b0f758A2fB62a8154F09Fe6080F0c923",
+			"timestamp": "2023-08-28T16:17:33.478Z",
 			"txn": "",
 			"network": "local",
-			"constructorArgs": ["0x01291f14349A951127A3A90137217AB9EeD159B8"]
+			"constructorArgs": ["0xFEA12F809A41fd029EE5d1914c243A4DCf568997"]
 		},
 		"SynthsETH": {
 			"name": "SynthsETH",
-			"address": "0xe85E1B88DC59229141091592968Cc8c8dC2eB688",
+			"address": "0x9973E5A821eCa920d1e5855A3F4863a43D3a61Cc",
 			"source": "MultiCollateralSynth",
-			"link": "https://local-explorer.optimism.io/address/0xe85E1B88DC59229141091592968Cc8c8dC2eB688",
-			"timestamp": "2023-08-28T13:42:35.867Z",
+			"link": "https://local-explorer.optimism.io/address/0x9973E5A821eCa920d1e5855A3F4863a43D3a61Cc",
+			"timestamp": "2023-08-28T16:17:33.733Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x2aBDdB94c2fA5Bb246DE37ac54ac70Fc90fCcd9F",
-				"0x289117e1F2E7007Fb99C51a56eD3937D1616A5Cf",
+				"0xB78F6606b0f758A2fB62a8154F09Fe6080F0c923",
+				"0xC9D097E33c7223666301850B8b32deFFeee7a9d5",
 				"Synth sETH",
 				"sETH",
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
 				"0x7345544800000000000000000000000000000000000000000000000000000000",
 				0,
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"TokenStatesBTC": {
 			"name": "TokenStatesBTC",
-			"address": "0x9B2a71D2cBd8FeC0C3e2BFBf23832a0444Caf2A7",
+			"address": "0x48Cc9531F4F203A3aB07e22a85a21f8e907070EF",
 			"source": "TokenState",
-			"link": "https://local-explorer.optimism.io/address/0x9B2a71D2cBd8FeC0C3e2BFBf23832a0444Caf2A7",
-			"timestamp": "2023-08-28T13:42:35.994Z",
+			"link": "https://local-explorer.optimism.io/address/0x48Cc9531F4F203A3aB07e22a85a21f8e907070EF",
+			"timestamp": "2023-08-28T16:17:33.812Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
 				"0x0000000000000000000000000000000000000000"
 			]
 		},
 		"ProxysBTC": {
 			"name": "ProxysBTC",
-			"address": "0x9f51E34c641A0A5D2992BEeda6AabD3cA3fDE451",
+			"address": "0x2d1565EFe7077e70B07C4BFDcAc8CD0f8923DF57",
 			"source": "ProxyERC20",
-			"link": "https://local-explorer.optimism.io/address/0x9f51E34c641A0A5D2992BEeda6AabD3cA3fDE451",
-			"timestamp": "2023-08-28T13:42:36.128Z",
+			"link": "https://local-explorer.optimism.io/address/0x2d1565EFe7077e70B07C4BFDcAc8CD0f8923DF57",
+			"timestamp": "2023-08-28T16:17:33.961Z",
 			"txn": "",
 			"network": "local",
-			"constructorArgs": ["0x01291f14349A951127A3A90137217AB9EeD159B8"]
+			"constructorArgs": ["0xFEA12F809A41fd029EE5d1914c243A4DCf568997"]
 		},
 		"SynthsBTC": {
 			"name": "SynthsBTC",
-			"address": "0x59D4B8e2B415F8e8fE896D96f976454aF1177ed9",
+			"address": "0xb08b689E46faCD24749387C2E32e3592E48463A3",
 			"source": "MultiCollateralSynth",
-			"link": "https://local-explorer.optimism.io/address/0x59D4B8e2B415F8e8fE896D96f976454aF1177ed9",
-			"timestamp": "2023-08-28T13:42:36.463Z",
+			"link": "https://local-explorer.optimism.io/address/0xb08b689E46faCD24749387C2E32e3592E48463A3",
+			"timestamp": "2023-08-28T16:17:34.263Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x9f51E34c641A0A5D2992BEeda6AabD3cA3fDE451",
-				"0x9B2a71D2cBd8FeC0C3e2BFBf23832a0444Caf2A7",
+				"0x2d1565EFe7077e70B07C4BFDcAc8CD0f8923DF57",
+				"0x48Cc9531F4F203A3aB07e22a85a21f8e907070EF",
 				"Synth sBTC",
 				"sBTC",
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
 				"0x7342544300000000000000000000000000000000000000000000000000000000",
 				0,
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"TokenStatesLINK": {
 			"name": "TokenStatesLINK",
-			"address": "0x0ba004A0e4177DBF328edD20fa5b26115B362c56",
+			"address": "0x535D53f814707Eb5128ec2c62AA41F7986b97B46",
 			"source": "TokenState",
-			"link": "https://local-explorer.optimism.io/address/0x0ba004A0e4177DBF328edD20fa5b26115B362c56",
-			"timestamp": "2023-08-28T13:42:36.561Z",
+			"link": "https://local-explorer.optimism.io/address/0x535D53f814707Eb5128ec2c62AA41F7986b97B46",
+			"timestamp": "2023-08-28T16:17:34.342Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
 				"0x0000000000000000000000000000000000000000"
 			]
 		},
 		"ProxysLINK": {
 			"name": "ProxysLINK",
-			"address": "0xd05CD015dCb95E83560e08Cc1Be5789261543AAB",
+			"address": "0xcB27FCadFc8361308e9A9AC4D8Bf25E7d9112012",
 			"source": "ProxyERC20",
-			"link": "https://local-explorer.optimism.io/address/0xd05CD015dCb95E83560e08Cc1Be5789261543AAB",
-			"timestamp": "2023-08-28T13:42:36.688Z",
+			"link": "https://local-explorer.optimism.io/address/0xcB27FCadFc8361308e9A9AC4D8Bf25E7d9112012",
+			"timestamp": "2023-08-28T16:17:34.432Z",
 			"txn": "",
 			"network": "local",
-			"constructorArgs": ["0x01291f14349A951127A3A90137217AB9EeD159B8"]
+			"constructorArgs": ["0xFEA12F809A41fd029EE5d1914c243A4DCf568997"]
 		},
 		"SynthsLINK": {
 			"name": "SynthsLINK",
-			"address": "0x120A3E78243B954f641bFEA4B7Dd7681b9E2df50",
+			"address": "0xa4BAc369C8C7C3d9A8f2cC1F24ff3122bA09cc03",
 			"source": "MultiCollateralSynth",
-			"link": "https://local-explorer.optimism.io/address/0x120A3E78243B954f641bFEA4B7Dd7681b9E2df50",
-			"timestamp": "2023-08-28T13:42:36.976Z",
+			"link": "https://local-explorer.optimism.io/address/0xa4BAc369C8C7C3d9A8f2cC1F24ff3122bA09cc03",
+			"timestamp": "2023-08-28T16:17:34.669Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0xd05CD015dCb95E83560e08Cc1Be5789261543AAB",
-				"0x0ba004A0e4177DBF328edD20fa5b26115B362c56",
+				"0xcB27FCadFc8361308e9A9AC4D8Bf25E7d9112012",
+				"0x535D53f814707Eb5128ec2c62AA41F7986b97B46",
 				"Synth sLINK",
 				"sLINK",
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
 				"0x734c494e4b000000000000000000000000000000000000000000000000000000",
 				0,
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"TokenStatesETHBTC": {
 			"name": "TokenStatesETHBTC",
-			"address": "0xbe9050C4015966a6616eBF6460a35e4436BBbb06",
+			"address": "0x257b49D7F90C3878fC5cE7444d1168Ab498A96A9",
 			"source": "TokenState",
-			"link": "https://local-explorer.optimism.io/address/0xbe9050C4015966a6616eBF6460a35e4436BBbb06",
-			"timestamp": "2023-08-28T13:42:37.074Z",
+			"link": "https://local-explorer.optimism.io/address/0x257b49D7F90C3878fC5cE7444d1168Ab498A96A9",
+			"timestamp": "2023-08-28T16:17:34.770Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
 				"0x0000000000000000000000000000000000000000"
 			]
 		},
 		"ProxysETHBTC": {
 			"name": "ProxysETHBTC",
-			"address": "0xbb278F1Dd718112F98a523E945FA347D274d24B6",
+			"address": "0x2a76591C5ec1688b31E04047BAa1f169d7881cbe",
 			"source": "ProxyERC20",
-			"link": "https://local-explorer.optimism.io/address/0xbb278F1Dd718112F98a523E945FA347D274d24B6",
-			"timestamp": "2023-08-28T13:42:37.170Z",
+			"link": "https://local-explorer.optimism.io/address/0x2a76591C5ec1688b31E04047BAa1f169d7881cbe",
+			"timestamp": "2023-08-28T16:17:34.943Z",
 			"txn": "",
 			"network": "local",
-			"constructorArgs": ["0x01291f14349A951127A3A90137217AB9EeD159B8"]
+			"constructorArgs": ["0xFEA12F809A41fd029EE5d1914c243A4DCf568997"]
 		},
 		"SynthsETHBTC": {
 			"name": "SynthsETHBTC",
-			"address": "0x211ee36FbD1db34EBE2A4302a1eDe31620b6a6a6",
+			"address": "0x427C186d457829E4B447E3e7610ec8FCc869F69F",
 			"source": "MultiCollateralSynth",
-			"link": "https://local-explorer.optimism.io/address/0x211ee36FbD1db34EBE2A4302a1eDe31620b6a6a6",
-			"timestamp": "2023-08-28T13:42:37.379Z",
+			"link": "https://local-explorer.optimism.io/address/0x427C186d457829E4B447E3e7610ec8FCc869F69F",
+			"timestamp": "2023-08-28T16:17:35.212Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0xbb278F1Dd718112F98a523E945FA347D274d24B6",
-				"0xbe9050C4015966a6616eBF6460a35e4436BBbb06",
+				"0x2a76591C5ec1688b31E04047BAa1f169d7881cbe",
+				"0x257b49D7F90C3878fC5cE7444d1168Ab498A96A9",
 				"Synth sETHBTC",
 				"sETHBTC",
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
 				"0x7345544842544300000000000000000000000000000000000000000000000000",
 				0,
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"Depot": {
 			"name": "Depot",
-			"address": "0x10bE11cAe97E1342A3DAbb1f71e4966c5fC3e545",
+			"address": "0x339316A6b8E7EcB766768dBE04d5b177D3B77EC7",
 			"source": "Depot",
-			"link": "https://local-explorer.optimism.io/address/0x10bE11cAe97E1342A3DAbb1f71e4966c5fC3e545",
-			"timestamp": "2023-08-28T13:42:37.613Z",
+			"link": "https://local-explorer.optimism.io/address/0x339316A6b8E7EcB766768dBE04d5b177D3B77EC7",
+			"timestamp": "2023-08-28T16:17:35.426Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"WETH": {
 			"name": "WETH",
-			"address": "0x5673F924C08b3D5A1D88fe0007E1e1DAFA218B8D",
+			"address": "0xcB7FC5477B9983F312199F0919e41cc033941CAE",
 			"source": "WETH",
-			"link": "https://local-explorer.optimism.io/address/0x5673F924C08b3D5A1D88fe0007E1e1DAFA218B8D",
-			"timestamp": "2023-08-28T13:42:37.793Z",
+			"link": "https://local-explorer.optimism.io/address/0xcB7FC5477B9983F312199F0919e41cc033941CAE",
+			"timestamp": "2023-08-28T16:17:35.517Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": []
 		},
 		"EtherWrapper": {
 			"name": "EtherWrapper",
-			"address": "0xDd22879D1fAe6aF01532C66E6EaDc656e643e894",
+			"address": "0xdeCA8f45343eB5b1BAc1B7b37c6cAAa9F800E4C5",
 			"source": "EmptyEtherWrapper",
-			"link": "https://local-explorer.optimism.io/address/0xDd22879D1fAe6aF01532C66E6EaDc656e643e894",
-			"timestamp": "2023-08-28T13:42:37.854Z",
+			"link": "https://local-explorer.optimism.io/address/0xdeCA8f45343eB5b1BAc1B7b37c6cAAa9F800E4C5",
+			"timestamp": "2023-08-28T16:17:35.584Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": []
 		},
 		"CollateralUtil": {
 			"name": "CollateralUtil",
-			"address": "0x9508CB53A600129bB3d32729CcC4c1a67480c8a0",
+			"address": "0x7089d12F89769922601eC7C6Fd8c57bF18dA9B7B",
 			"source": "CollateralUtil",
-			"link": "https://local-explorer.optimism.io/address/0x9508CB53A600129bB3d32729CcC4c1a67480c8a0",
-			"timestamp": "2023-08-28T13:42:38.002Z",
+			"link": "https://local-explorer.optimism.io/address/0x7089d12F89769922601eC7C6Fd8c57bF18dA9B7B",
+			"timestamp": "2023-08-28T16:17:35.784Z",
 			"txn": "",
 			"network": "local",
-			"constructorArgs": ["0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"]
+			"constructorArgs": ["0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"]
 		},
 		"CollateralManagerState": {
 			"name": "CollateralManagerState",
-			"address": "0x2D457dEF9609895Dd58B6fFdE1433BC1cbc24DE2",
+			"address": "0x2CEA27908028e104C114255Ab0621C99202A1D9B",
 			"source": "CollateralManagerState",
-			"link": "https://local-explorer.optimism.io/address/0x2D457dEF9609895Dd58B6fFdE1433BC1cbc24DE2",
-			"timestamp": "2023-08-28T13:42:38.130Z",
+			"link": "https://local-explorer.optimism.io/address/0x2CEA27908028e104C114255Ab0621C99202A1D9B",
+			"timestamp": "2023-08-28T16:17:35.938Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0x01291f14349A951127A3A90137217AB9EeD159B8"
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997"
 			]
 		},
 		"CollateralManager": {
 			"name": "CollateralManager",
-			"address": "0x3fd4a1bdB9eb3bC22554C6719104cAe1F6Bf0E16",
+			"address": "0x8Ab100453A7A59e7f771d537d9072B313Ad6Cfb7",
 			"source": "CollateralManager",
-			"link": "https://local-explorer.optimism.io/address/0x3fd4a1bdB9eb3bC22554C6719104cAe1F6Bf0E16",
-			"timestamp": "2023-08-28T13:42:38.461Z",
+			"link": "https://local-explorer.optimism.io/address/0x8Ab100453A7A59e7f771d537d9072B313Ad6Cfb7",
+			"timestamp": "2023-08-28T16:17:36.255Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x2D457dEF9609895Dd58B6fFdE1433BC1cbc24DE2",
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA",
+				"0x2CEA27908028e104C114255Ab0621C99202A1D9B",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87",
 				"75000000000000000000000000",
 				"200000000000000000",
 				"950662938",
@@ -814,16 +814,16 @@
 		},
 		"CollateralShort": {
 			"name": "CollateralShort",
-			"address": "0x2C278Cac7cE4eC06299559a0A91e24bfA8Ba365a",
+			"address": "0x1ccb532032a65af4aA728229F510130AD0B8ffa7",
 			"source": "CollateralShort",
-			"link": "https://local-explorer.optimism.io/address/0x2C278Cac7cE4eC06299559a0A91e24bfA8Ba365a",
-			"timestamp": "2023-08-28T13:42:38.747Z",
+			"link": "https://local-explorer.optimism.io/address/0x1ccb532032a65af4aA728229F510130AD0B8ffa7",
+			"timestamp": "2023-08-28T16:17:36.547Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0x3fd4a1bdB9eb3bC22554C6719104cAe1F6Bf0E16",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0x8Ab100453A7A59e7f771d537d9072B313Ad6Cfb7",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87",
 				"0x7355534400000000000000000000000000000000000000000000000000000000",
 				"1200000000000000000",
 				"100000000000000000000"
@@ -831,74 +831,74 @@
 		},
 		"FuturesMarketManager": {
 			"name": "FuturesMarketManager",
-			"address": "0x43673d26D2807f53D439782b7233Dd16dbc92819",
+			"address": "0x1f857cc25360d9c2F982ab36b22035DccF568D91",
 			"source": "FuturesMarketManager",
-			"link": "https://local-explorer.optimism.io/address/0x43673d26D2807f53D439782b7233Dd16dbc92819",
-			"timestamp": "2023-08-28T13:42:38.949Z",
+			"link": "https://local-explorer.optimism.io/address/0x1f857cc25360d9c2F982ab36b22035DccF568D91",
+			"timestamp": "2023-08-28T16:17:36.822Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"PerpsV2MarketData": {
 			"name": "PerpsV2MarketData",
-			"address": "0xa17eD0059B9A0eaf9A78E4EbFCd50d20f5612415",
+			"address": "0xd0D5dDD0019fd4164edE9d5F42b6d1a90E2E4CB7",
 			"source": "PerpsV2MarketData",
-			"link": "https://local-explorer.optimism.io/address/0xa17eD0059B9A0eaf9A78E4EbFCd50d20f5612415",
-			"timestamp": "2023-08-28T13:42:39.130Z",
+			"link": "https://local-explorer.optimism.io/address/0xd0D5dDD0019fd4164edE9d5F42b6d1a90E2E4CB7",
+			"timestamp": "2023-08-28T16:17:37.010Z",
 			"txn": "",
 			"network": "local",
-			"constructorArgs": ["0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"]
+			"constructorArgs": ["0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"]
 		},
 		"PerpsV2MarketSettings": {
 			"name": "PerpsV2MarketSettings",
-			"address": "0x3A4aDc1651c96f709D57412e1AA3970F22186cfe",
+			"address": "0xaa77983C09b34FE2BCbF9b91d2499d96Dec018d9",
 			"source": "PerpsV2MarketSettings",
-			"link": "https://local-explorer.optimism.io/address/0x3A4aDc1651c96f709D57412e1AA3970F22186cfe",
-			"timestamp": "2023-08-28T13:42:39.405Z",
+			"link": "https://local-explorer.optimism.io/address/0xaa77983C09b34FE2BCbF9b91d2499d96Dec018d9",
+			"timestamp": "2023-08-28T16:17:37.218Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"PerpsV2ExchangeRate": {
 			"name": "PerpsV2ExchangeRate",
-			"address": "0xB0968B77F63c32E0375b34275cEDd9fB372184E4",
+			"address": "0x3844CdC5F1dFE3A1b03F9E016552cDf37662A18a",
 			"source": "PerpsV2ExchangeRate",
-			"link": "https://local-explorer.optimism.io/address/0xB0968B77F63c32E0375b34275cEDd9fB372184E4",
-			"timestamp": "2023-08-28T13:42:39.595Z",
+			"link": "https://local-explorer.optimism.io/address/0x3844CdC5F1dFE3A1b03F9E016552cDf37662A18a",
+			"timestamp": "2023-08-28T16:17:37.398Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"PerpsV2ProxyBTCPERP": {
 			"name": "PerpsV2ProxyBTCPERP",
-			"address": "0xE7678D2CD0B6600F30FC6b2dAE96AAA88Ffd7Ab9",
+			"address": "0x2382857d059dc083cFaa9fA94E38ccA38B191fAB",
 			"source": "ProxyPerpsV2",
-			"link": "https://local-explorer.optimism.io/address/0xE7678D2CD0B6600F30FC6b2dAE96AAA88Ffd7Ab9",
-			"timestamp": "2023-08-28T13:42:40.905Z",
+			"link": "https://local-explorer.optimism.io/address/0x2382857d059dc083cFaa9fA94E38ccA38B191fAB",
+			"timestamp": "2023-08-28T16:17:38.625Z",
 			"txn": "",
 			"network": "local",
-			"constructorArgs": ["0x01291f14349A951127A3A90137217AB9EeD159B8"]
+			"constructorArgs": ["0xFEA12F809A41fd029EE5d1914c243A4DCf568997"]
 		},
 		"PerpsV2MarketStateBTCPERP": {
 			"name": "PerpsV2MarketStateBTCPERP",
-			"address": "0xF0cA938DD09354C814E735C89ce1115f6f5d484f",
+			"address": "0x7390f4136013498FBbb0660AeF838d035aAA748b",
 			"source": "PerpsV2MarketState",
-			"link": "https://local-explorer.optimism.io/address/0xF0cA938DD09354C814E735C89ce1115f6f5d484f",
-			"timestamp": "2023-08-28T13:42:41.187Z",
+			"link": "https://local-explorer.optimism.io/address/0x7390f4136013498FBbb0660AeF838d035aAA748b",
+			"timestamp": "2023-08-28T16:17:38.831Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				["0x01291f14349A951127A3A90137217AB9EeD159B8"],
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				["0xFEA12F809A41fd029EE5d1914c243A4DCf568997"],
 				"0x7342544300000000000000000000000000000000000000000000000000000000",
 				"0x7342544350455250000000000000000000000000000000000000000000000000",
 				"0x0000000000000000000000000000000000000000"
@@ -906,99 +906,99 @@
 		},
 		"PerpsV2MarketBTCPERP": {
 			"name": "PerpsV2MarketBTCPERP",
-			"address": "0x02d12ED625EB846363e537DdC60811369FA0e43D",
+			"address": "0x3ABa256102C1792DB52B3cD4385D1AB51C60b907",
 			"source": "PerpsV2Market",
-			"link": "https://local-explorer.optimism.io/address/0x02d12ED625EB846363e537DdC60811369FA0e43D",
-			"timestamp": "2023-08-28T13:42:41.715Z",
+			"link": "https://local-explorer.optimism.io/address/0x3ABa256102C1792DB52B3cD4385D1AB51C60b907",
+			"timestamp": "2023-08-28T16:17:39.186Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0xE7678D2CD0B6600F30FC6b2dAE96AAA88Ffd7Ab9",
-				"0xF0cA938DD09354C814E735C89ce1115f6f5d484f",
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0x2382857d059dc083cFaa9fA94E38ccA38B191fAB",
+				"0x7390f4136013498FBbb0660AeF838d035aAA748b",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"PerpsV2MarketLiquidateBTCPERP": {
 			"name": "PerpsV2MarketLiquidateBTCPERP",
-			"address": "0x49a9883Af0b3009A3c213416Fa6614C922825109",
+			"address": "0x2b6CE0166109e4Ea097BB0ea0dCccC4CBd7052f9",
 			"source": "PerpsV2MarketLiquidate",
-			"link": "https://local-explorer.optimism.io/address/0x49a9883Af0b3009A3c213416Fa6614C922825109",
-			"timestamp": "2023-08-28T13:42:42.008Z",
+			"link": "https://local-explorer.optimism.io/address/0x2b6CE0166109e4Ea097BB0ea0dCccC4CBd7052f9",
+			"timestamp": "2023-08-28T16:17:39.551Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0xE7678D2CD0B6600F30FC6b2dAE96AAA88Ffd7Ab9",
-				"0xF0cA938DD09354C814E735C89ce1115f6f5d484f",
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0x2382857d059dc083cFaa9fA94E38ccA38B191fAB",
+				"0x7390f4136013498FBbb0660AeF838d035aAA748b",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"PerpsV2DelayedIntentBTCPERP": {
 			"name": "PerpsV2DelayedIntentBTCPERP",
-			"address": "0x7913B9443afa8D80Aabbcec8E36B0A57C5c2F648",
+			"address": "0x0d253AE046C7663281eAFb492657fc800D94Cc20",
 			"source": "PerpsV2MarketDelayedIntent",
-			"link": "https://local-explorer.optimism.io/address/0x7913B9443afa8D80Aabbcec8E36B0A57C5c2F648",
-			"timestamp": "2023-08-28T13:42:42.393Z",
+			"link": "https://local-explorer.optimism.io/address/0x0d253AE046C7663281eAFb492657fc800D94Cc20",
+			"timestamp": "2023-08-28T16:17:39.857Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0xE7678D2CD0B6600F30FC6b2dAE96AAA88Ffd7Ab9",
-				"0xF0cA938DD09354C814E735C89ce1115f6f5d484f",
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0x2382857d059dc083cFaa9fA94E38ccA38B191fAB",
+				"0x7390f4136013498FBbb0660AeF838d035aAA748b",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"PerpsV2DelayedExecutionBTCPERP": {
 			"name": "PerpsV2DelayedExecutionBTCPERP",
-			"address": "0x03711CB8A5C5dcFc2b17e2424eFC16350bA4580E",
+			"address": "0x207Bd2073E234DC4E4A4373c08c621f3085aE304",
 			"source": "PerpsV2MarketDelayedExecution",
-			"link": "https://local-explorer.optimism.io/address/0x03711CB8A5C5dcFc2b17e2424eFC16350bA4580E",
-			"timestamp": "2023-08-28T13:42:42.736Z",
+			"link": "https://local-explorer.optimism.io/address/0x207Bd2073E234DC4E4A4373c08c621f3085aE304",
+			"timestamp": "2023-08-28T16:17:40.193Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0xE7678D2CD0B6600F30FC6b2dAE96AAA88Ffd7Ab9",
-				"0xF0cA938DD09354C814E735C89ce1115f6f5d484f",
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0x2382857d059dc083cFaa9fA94E38ccA38B191fAB",
+				"0x7390f4136013498FBbb0660AeF838d035aAA748b",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"PerpsV2MarketViewsBTCPERP": {
 			"name": "PerpsV2MarketViewsBTCPERP",
-			"address": "0x652198dd4726589715873fFa4a7dB3a9CEF201Fa",
+			"address": "0x25B47F9C50A2B9d21e522963F34e5bd47922dBeB",
 			"source": "PerpsV2MarketViews",
-			"link": "https://local-explorer.optimism.io/address/0x652198dd4726589715873fFa4a7dB3a9CEF201Fa",
-			"timestamp": "2023-08-28T13:42:43.095Z",
+			"link": "https://local-explorer.optimism.io/address/0x25B47F9C50A2B9d21e522963F34e5bd47922dBeB",
+			"timestamp": "2023-08-28T16:17:40.572Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0xF0cA938DD09354C814E735C89ce1115f6f5d484f",
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0x7390f4136013498FBbb0660AeF838d035aAA748b",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"PerpsV2ProxyETHPERP": {
 			"name": "PerpsV2ProxyETHPERP",
-			"address": "0xA2c86E098519e3094b95EAFc2d18bC56c5e35596",
+			"address": "0x103dBB24ffd857dACFFBd781aE99D62f95846844",
 			"source": "ProxyPerpsV2",
-			"link": "https://local-explorer.optimism.io/address/0xA2c86E098519e3094b95EAFc2d18bC56c5e35596",
-			"timestamp": "2023-08-28T13:42:52.205Z",
+			"link": "https://local-explorer.optimism.io/address/0x103dBB24ffd857dACFFBd781aE99D62f95846844",
+			"timestamp": "2023-08-28T16:17:50.531Z",
 			"txn": "",
 			"network": "local",
-			"constructorArgs": ["0x01291f14349A951127A3A90137217AB9EeD159B8"]
+			"constructorArgs": ["0xFEA12F809A41fd029EE5d1914c243A4DCf568997"]
 		},
 		"PerpsV2MarketStateETHPERP": {
 			"name": "PerpsV2MarketStateETHPERP",
-			"address": "0x436C0e1d740650d5aB793D4a6d8107Ed72C401cD",
+			"address": "0xcB8F750213573B57f80f784aEFc22206c6987C2d",
 			"source": "PerpsV2MarketState",
-			"link": "https://local-explorer.optimism.io/address/0x436C0e1d740650d5aB793D4a6d8107Ed72C401cD",
-			"timestamp": "2023-08-28T13:42:52.383Z",
+			"link": "https://local-explorer.optimism.io/address/0xcB8F750213573B57f80f784aEFc22206c6987C2d",
+			"timestamp": "2023-08-28T16:17:50.773Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				["0x01291f14349A951127A3A90137217AB9EeD159B8"],
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				["0xFEA12F809A41fd029EE5d1914c243A4DCf568997"],
 				"0x7345544800000000000000000000000000000000000000000000000000000000",
 				"0x7345544850455250000000000000000000000000000000000000000000000000",
 				"0x0000000000000000000000000000000000000000"
@@ -1006,97 +1006,97 @@
 		},
 		"PerpsV2MarketETHPERP": {
 			"name": "PerpsV2MarketETHPERP",
-			"address": "0x198d18db67095b3ab66578B02533D1714261eBe6",
+			"address": "0x6dF385A9f1CB4375B2Fb48d86B34347238Cf6cFE",
 			"source": "PerpsV2Market",
-			"link": "https://local-explorer.optimism.io/address/0x198d18db67095b3ab66578B02533D1714261eBe6",
-			"timestamp": "2023-08-28T13:42:52.749Z",
+			"link": "https://local-explorer.optimism.io/address/0x6dF385A9f1CB4375B2Fb48d86B34347238Cf6cFE",
+			"timestamp": "2023-08-28T16:17:51.110Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0xA2c86E098519e3094b95EAFc2d18bC56c5e35596",
-				"0x436C0e1d740650d5aB793D4a6d8107Ed72C401cD",
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0x103dBB24ffd857dACFFBd781aE99D62f95846844",
+				"0xcB8F750213573B57f80f784aEFc22206c6987C2d",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"PerpsV2MarketLiquidateETHPERP": {
 			"name": "PerpsV2MarketLiquidateETHPERP",
-			"address": "0xc6DbAA0a7d5BfDB669704A670A00922bd46d0d7C",
+			"address": "0x750a9436135461f73126cD607E494da6d4d455FA",
 			"source": "PerpsV2MarketLiquidate",
-			"link": "https://local-explorer.optimism.io/address/0xc6DbAA0a7d5BfDB669704A670A00922bd46d0d7C",
-			"timestamp": "2023-08-28T13:42:53.051Z",
+			"link": "https://local-explorer.optimism.io/address/0x750a9436135461f73126cD607E494da6d4d455FA",
+			"timestamp": "2023-08-28T16:17:51.368Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0xA2c86E098519e3094b95EAFc2d18bC56c5e35596",
-				"0x436C0e1d740650d5aB793D4a6d8107Ed72C401cD",
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0x103dBB24ffd857dACFFBd781aE99D62f95846844",
+				"0xcB8F750213573B57f80f784aEFc22206c6987C2d",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"PerpsV2DelayedIntentETHPERP": {
 			"name": "PerpsV2DelayedIntentETHPERP",
-			"address": "0xccBaB7eb4a6d544Ea07a18c8d6bCB22bCD4429C7",
+			"address": "0xecfdD534CC31dE78e99ca5421307747e5F54BdfE",
 			"source": "PerpsV2MarketDelayedIntent",
-			"link": "https://local-explorer.optimism.io/address/0xccBaB7eb4a6d544Ea07a18c8d6bCB22bCD4429C7",
-			"timestamp": "2023-08-28T13:42:53.351Z",
+			"link": "https://local-explorer.optimism.io/address/0xecfdD534CC31dE78e99ca5421307747e5F54BdfE",
+			"timestamp": "2023-08-28T16:17:51.729Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0xA2c86E098519e3094b95EAFc2d18bC56c5e35596",
-				"0x436C0e1d740650d5aB793D4a6d8107Ed72C401cD",
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0x103dBB24ffd857dACFFBd781aE99D62f95846844",
+				"0xcB8F750213573B57f80f784aEFc22206c6987C2d",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"PerpsV2DelayedExecutionETHPERP": {
 			"name": "PerpsV2DelayedExecutionETHPERP",
-			"address": "0x6F192F403dD4d2769f0C90E0615D0405F4076FA7",
+			"address": "0x9bcc4522a1792D96b95346871E2fb08D4B2cC062",
 			"source": "PerpsV2MarketDelayedExecution",
-			"link": "https://local-explorer.optimism.io/address/0x6F192F403dD4d2769f0C90E0615D0405F4076FA7",
-			"timestamp": "2023-08-28T13:42:53.816Z",
+			"link": "https://local-explorer.optimism.io/address/0x9bcc4522a1792D96b95346871E2fb08D4B2cC062",
+			"timestamp": "2023-08-28T16:17:52.087Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0xA2c86E098519e3094b95EAFc2d18bC56c5e35596",
-				"0x436C0e1d740650d5aB793D4a6d8107Ed72C401cD",
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0x103dBB24ffd857dACFFBd781aE99D62f95846844",
+				"0xcB8F750213573B57f80f784aEFc22206c6987C2d",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"PerpsV2MarketViewsETHPERP": {
 			"name": "PerpsV2MarketViewsETHPERP",
-			"address": "0x30Cb83ceE24969574fD5BfED13b0fE36310e7aD6",
+			"address": "0x240B88E99EA49b382b15c9d941C0C48F254818C7",
 			"source": "PerpsV2MarketViews",
-			"link": "https://local-explorer.optimism.io/address/0x30Cb83ceE24969574fD5BfED13b0fE36310e7aD6",
-			"timestamp": "2023-08-28T13:42:54.106Z",
+			"link": "https://local-explorer.optimism.io/address/0x240B88E99EA49b382b15c9d941C0C48F254818C7",
+			"timestamp": "2023-08-28T16:17:52.383Z",
 			"txn": "",
 			"network": "local",
 			"constructorArgs": [
-				"0x436C0e1d740650d5aB793D4a6d8107Ed72C401cD",
-				"0x01291f14349A951127A3A90137217AB9EeD159B8",
-				"0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"
+				"0xcB8F750213573B57f80f784aEFc22206c6987C2d",
+				"0xFEA12F809A41fd029EE5d1914c243A4DCf568997",
+				"0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"
 			]
 		},
 		"SynthUtil": {
 			"name": "SynthUtil",
-			"address": "0x43b4BA35F2C51A46660580c7a006D03761331e0f",
+			"address": "0x83Fee318C6aC785A5F2C8B810d8459aF0146a90c",
 			"source": "SynthUtil",
-			"link": "https://local-explorer.optimism.io/address/0x43b4BA35F2C51A46660580c7a006D03761331e0f",
-			"timestamp": "2023-08-28T13:43:02.650Z",
+			"link": "https://local-explorer.optimism.io/address/0x83Fee318C6aC785A5F2C8B810d8459aF0146a90c",
+			"timestamp": "2023-08-28T16:18:01.852Z",
 			"txn": "",
 			"network": "local",
-			"constructorArgs": ["0xDe2da39383D0B4799f84d44bBB4b80E9Ad93A8dA"]
+			"constructorArgs": ["0xACe059Fe6d9F1A5DB93020d1295f22151FC69d87"]
 		},
 		"DappMaintenance": {
 			"name": "DappMaintenance",
-			"address": "0x5bBD1dBA4B652393750b35b7DC7be4dbB1359238",
+			"address": "0x89B6d56c3086607753725F21b357CeD1246cD92B",
 			"source": "DappMaintenance",
-			"link": "https://local-explorer.optimism.io/address/0x5bBD1dBA4B652393750b35b7DC7be4dbB1359238",
-			"timestamp": "2023-08-28T13:43:02.731Z",
+			"link": "https://local-explorer.optimism.io/address/0x89B6d56c3086607753725F21b357CeD1246cD92B",
+			"timestamp": "2023-08-28T16:18:01.934Z",
 			"txn": "",
 			"network": "local",
-			"constructorArgs": ["0x01291f14349A951127A3A90137217AB9EeD159B8"]
+			"constructorArgs": ["0xFEA12F809A41fd029EE5d1914c243A4DCf568997"]
 		}
 	},
 	"sources": {
