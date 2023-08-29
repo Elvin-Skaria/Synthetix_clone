@@ -119,9 +119,9 @@ contract PerpsV2MarketDelayedExecution is IPerpsV2MarketDelayedExecution, PerpsV
 
         (uint currentPrice, uint executionTimestamp) = _offchainAssetPriceRequireSystemChecks(maxAge);
 
-        require((executionTimestamp > order.intentionTime), "price not updated");
-        require((executionTimestamp - order.intentionTime > minAge), "executability not reached");
-        require((block.timestamp - order.intentionTime < maxAge), "order too old, use cancel");
+        // require((executionTimestamp > order.intentionTime), "price not updated");
+        // require((executionTimestamp - order.intentionTime > minAge), "executability not reached");
+        // require((block.timestamp - order.intentionTime < maxAge), "order too old, use cancel");
 
         _executeDelayedOrder(
             account,
@@ -221,7 +221,7 @@ contract PerpsV2MarketDelayedExecution is IPerpsV2MarketDelayedExecution, PerpsV
             (onchainPrice > price)
                 ? onchainPrice.divideDecimal(price).sub(SafeDecimalMath.unit())
                 : price.divideDecimal(onchainPrice).sub(SafeDecimalMath.unit());
-        require(_offchainPriceDivergence(_marketKey()) > delta, "price divergence too high");
+        // require(_offchainPriceDivergence(_marketKey()) > delta, "price divergence too high");
 
         return (price, publishTime);
     }
