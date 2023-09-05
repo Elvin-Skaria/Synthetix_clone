@@ -30,7 +30,7 @@ async function loadUsers({ ctx }) {
 		// as the OVM node does not support eth_sendTransaction, which inherently relies on
 		// the unlocked accounts on the node.
 		// Account #0: 0x9790C67E6062ce2965517E636377B954FA2d1afA
-		const privateKey = '0x40899ef87c427f485fc4a4900268e86e0856c42f0923ad89fffdbfd30ebf939f';
+		const privateKey = '0x3708159f5ab52c6c7fe49cac2f930f61afe41dfc33cd7fd67daa80135dcd5236';
 
 		ctx.users.owner = new ethers.Wallet(privateKey, ctx.provider);
 		ctx.users.owner.address = '0x9790C67E6062ce2965517E636377B954FA2d1afA';
