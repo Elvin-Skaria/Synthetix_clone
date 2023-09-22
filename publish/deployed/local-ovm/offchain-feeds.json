@@ -1,13 +1,13 @@
 [
 	{
 		"kind": "pyth",
-		"oracle": "0x06ca9eE0b30Dd1Ec3e21075D41c03d2D73cA8467",
+		"oracle": "0x4A1CeC7D11c0DFcbADE499B1A453255Fa8f37c07",
 		"asset": "sETH",
 		"feedId": "0xff61491a931112ddf1bd8147cd1b641375f79f5825126d665480874634fd0ace"
 	},
 	{
 		"kind": "pyth",
-		"oracle": "0x06ca9eE0b30Dd1Ec3e21075D41c03d2D73cA8467",
+		"oracle": "0x4A1CeC7D11c0DFcbADE499B1A453255Fa8f37c07",
 		"asset": "sBTC",
 		"feedId": "0xe62df6c8b4a85fe1a67db44dc12de5db330f7ac66b72dc658afedf0f4a415b43"
 	}
