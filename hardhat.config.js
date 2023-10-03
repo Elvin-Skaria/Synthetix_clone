@@ -97,14 +97,14 @@ module.exports = {
 		},
 		local: {
 			url: process.env.OVM_GOERLI_PROVIDER_URL || 'http://localhost:8545',
-			chainId: 1337,
+			chainId: 1121,
 			accounts: process.env.TESTNET_DEPLOY_PRIVATE_KEY
 				? [process.env.TESTNET_DEPLOY_PRIVATE_KEY]
 				: [],
 		},
 		'local-ovm': {
 			url: process.env.OVM_GOERLI_PROVIDER_URL || 'http://localhost:8545',
-			chainId: 1337,
+			chainId: 1121,
 			accounts: process.env.TESTNET_DEPLOY_PRIVATE_KEY
 				? [process.env.TESTNET_DEPLOY_PRIVATE_KEY]
 				: [],
