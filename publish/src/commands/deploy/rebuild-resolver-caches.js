@@ -32,7 +32,7 @@ module.exports = async ({
 	// add deployed wrappers
 	try {
 		const wrapperCreatedLogs = await deployer.provider.getLogs({
-			fromBlock: 0,
+			fromBlock: 527470,
 			topics: [ethers.utils.id('WrapperCreated(address,bytes32,address)')],
 		});
 
